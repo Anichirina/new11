@@ -15,7 +15,7 @@
 В процессе тестирования использовались следующие артефакты:
 
 - Отчет о тестировании
-- Баг-репорт ISSUE #1 https://github.com/Anichirina/new11/issues/1
+- Баг-репорт [ISSUE #1](https://github.com/Anichirina/new11/issues/1)
 
 В качестве тестовых данных использовались данные [инструкция KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
